@@ -6,3 +6,8 @@ langchain-groq
 langchain-core
 langchain-community
 jq
+google
+google-genai
+scikit-learn
+pandas
+seaborn
