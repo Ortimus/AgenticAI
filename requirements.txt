@@ -5,9 +5,12 @@ langchain-openai
 langchain-groq
 langchain-core
 langchain-community
+langchain_google_genai
 jq
 google
 google-genai
 scikit-learn
 pandas
 seaborn
+pypdf
+faiss-cpu
