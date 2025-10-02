@@ -1,3 +1,5 @@
+This is my play area for my initial experimentations with genai models.
+
 
 ## Setup Instructions
 
